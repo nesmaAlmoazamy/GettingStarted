@@ -53,6 +53,8 @@ val pi = 3.14159
 
 pi * radius * radius
 
+radius
+
 
 
 def square(x: Double) = x * x
