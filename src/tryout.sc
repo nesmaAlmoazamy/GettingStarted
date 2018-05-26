@@ -67,5 +67,3 @@ def sumOfSquares(x: Double, y: Double) = square(x) + square(y)
 
 
 sumOfSquares(1,1)
-
-1+1
